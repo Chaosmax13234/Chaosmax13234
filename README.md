@@ -1,6 +1,8 @@
 ###Hallo
-- Ich arbeite gerade an @Chaos-Devs 
 .
+- Ich habe gerade ein @ CD-STUDIO
+
+.ich 
 .
 .
 .
