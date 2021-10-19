@@ -1,8 +1,6 @@
 ###Hallo
-.
-- Ich habe gerade ein @ CD-STUDIO
 
-.ich 
+🔭 I’m currently working on ProtekSoftware 
 .
 .
 .
